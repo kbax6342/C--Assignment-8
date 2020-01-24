@@ -1,0 +1,11 @@
+/Users/pwispassword/Desktop/Visual C#/Assignment-8/bin/Debug/netcoreapp3.1/Assignment-8
+/Users/pwispassword/Desktop/Visual C#/Assignment-8/bin/Debug/netcoreapp3.1/Assignment-8.deps.json
+/Users/pwispassword/Desktop/Visual C#/Assignment-8/bin/Debug/netcoreapp3.1/Assignment-8.runtimeconfig.json
+/Users/pwispassword/Desktop/Visual C#/Assignment-8/bin/Debug/netcoreapp3.1/Assignment-8.runtimeconfig.dev.json
+/Users/pwispassword/Desktop/Visual C#/Assignment-8/bin/Debug/netcoreapp3.1/Assignment-8.dll
+/Users/pwispassword/Desktop/Visual C#/Assignment-8/bin/Debug/netcoreapp3.1/Assignment-8.pdb
+/Users/pwispassword/Desktop/Visual C#/Assignment-8/obj/Debug/netcoreapp3.1/Assignment-8.csprojAssemblyReference.cache
+/Users/pwispassword/Desktop/Visual C#/Assignment-8/obj/Debug/netcoreapp3.1/Assignment-8.AssemblyInfoInputs.cache
+/Users/pwispassword/Desktop/Visual C#/Assignment-8/obj/Debug/netcoreapp3.1/Assignment-8.AssemblyInfo.cs
+/Users/pwispassword/Desktop/Visual C#/Assignment-8/obj/Debug/netcoreapp3.1/Assignment-8.dll
+/Users/pwispassword/Desktop/Visual C#/Assignment-8/obj/Debug/netcoreapp3.1/Assignment-8.pdb
